@@ -1,0 +1,42 @@
+[
+  {
+    "label": "",
+    "content": "Nội trú -> Chuyển thông tin bảo hiểm  -> Chọn Bệnh Nhân -> Bấm tab chuyển đối tượng -> Đổi số thể -> BHYT -> Chuyển đối tượng",
+    "result": ""
+  },
+  {
+    "label": "Gia hạn thẻ BHYT",
+    "content": "Nội trú -> Chuyển thông tin bảo hiểm  -> Chọn Bệnh Nhân -> Bấm tab chuyển đối tượng -> Đổi ngày kết thúc -> Chuyển đối tượng",
+    "result": ""
+  },
+  {
+    "label": "Tạo phiếu lĩnh thuốc",
+    "content": "Nội trú -> Quản lý thuốc vật tư -> Quản lý phiếu lĩnh thuốc -> Chọn kho thuốc (giống kho cấp thuốc) -> Chọn đơn thuốc -> Tạo phiếu.",
+    "result": ""
+  },
+  {
+    "label": "Duyệt phiếu lĩnh",
+    "content": "Dược -> Duyệt thuốc vật tư bệnh nhân -> Duyệt phiếu lĩnh, hoàn trả thuốc nội trú -> Chọn kho và loại phiếu -> Bấm Duyệt -> Chấp nhận.",
+    "result": ""
+  },
+  {
+    "label": "Trả phiếu ",
+    "content": "Nội trú -> Điều trị nội trú -> Chọn BN -> Chọn Thuốc đã kê -> ",
+    "result": ""
+  },
+  {
+    "label": "Xếp giường cho Bệnh Nhân",
+    "content": "Khi tiếp nhận Bệnh Nhân ->  || Chọn Bệnh Nhân -> Xử trí -> Xếp giường cho Bệnh Nhân.",
+    "result": ""
+  },
+  {
+    "label": "Tạo phiếu chăm sóc",
+    "content": "Chọn Bệnh Nhân -> Chuột phải (Thêm Phiếu) -> Chọn Phiếu muốn tạo -> Tạo mới -> Lưu (Tạo phiếu cha) -> Nhập thông tin (Phiếu cha) ->Lưu Phiếu (Phiếu cha) -> Danh sách phiếu -> Chọn Phiếu cha -> Tạo mới -> Chọn phiếu cha -> Lưu -> Nhập thông tin (Phiếu con).",
+    "result": ""
+  },
+  {
+    "label": "",
+    "content": "",
+    "result": ""
+  }
+]
